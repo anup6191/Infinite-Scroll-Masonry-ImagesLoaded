@@ -5,9 +5,9 @@ A plugin for adding infinite scrolling with masonry and imagesLoaded functionali
 ## Resources
 
 Documentation: 
-Masonry => https://masonry.desandro.com/#getting-started
-Infinite Scroll => https://infinite-scroll.com/
-ImagesLoaded => https://imagesloaded.desandro.com/
+Masonry https://masonry.desandro.com/#getting-started
+Infinite Scroll https://infinite-scroll.com/
+ImagesLoaded https://imagesloaded.desandro.com/
 
 # Plugin
 Infinite Scroll
